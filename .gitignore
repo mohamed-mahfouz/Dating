@@ -483,3 +483,6 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 Dating.Api/appsettings.json
+
+
+.vscode
